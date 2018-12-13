@@ -166,4 +166,4 @@ results_VC_52
 
 ***
 
-The code for generating this report can be found on github.
+The code for generating this report can be found on [github](https://github.com/maximegalon5/Toothgrowth).
